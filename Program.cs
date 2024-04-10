@@ -6,7 +6,7 @@ namespace Connect4Game
     {
         static char[,] board = new char[6, 7]; 
         static bool gameEnded = false;
-        static char currentPlayer = 'X'; // 'X' starts the game
+        static char currentPlayer = 'X'; // Player 'X' always starts the game
 
         static void Main(string[] args)
         {
