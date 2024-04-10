@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\bin\Debug\net8.0\Connect_4_project.exe
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\bin\Debug\net8.0\Connect_4_project.deps.json
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\bin\Debug\net8.0\Connect_4_project.runtimeconfig.json
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\bin\Debug\net8.0\Connect_4_project.dll
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\bin\Debug\net8.0\Connect_4_project.pdb
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.AssemblyInfo.cs
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.sourcelink.json
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.dll
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\refint\Connect_4_project.dll
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.pdb
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\Connect_4_project.genruntimeconfig.cache
+C:\Users\USER\Desktop\SCHOOL WORK\SODV1202\Connect_4_project\obj\Debug\net8.0\ref\Connect_4_project.dll

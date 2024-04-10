@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Connect_4_project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db05b93925fe41019c187aa450f9b33a3fab097d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Connect_4_project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Connect_4_project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

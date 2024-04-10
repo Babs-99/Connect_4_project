@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Connect_4_project/1.0.0": {
+        "runtime": {
+          "Connect_4_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connect_4_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
